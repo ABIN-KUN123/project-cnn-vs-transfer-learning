@@ -1,0 +1,9 @@
+Dataset yang digunakan dalam eksperimen ini dimuat menggunakan TensorFlow Datasets (TFDS). Tautan sumber resmi dan dokumentasinya adalah sebagai berikut:
+
+1. Dataset Eksperimen 1 (CNN from Scratch): CIFAR-10
+   - Sumber Resmi: https://www.cs.toronto.edu/~kriz/cifar.html
+   - TFDS Catalog: https://www.tensorflow.org/datasets/catalog/cifar10
+
+2. Dataset Eksperimen 2 (Transfer Learning): Cats vs Dogs
+   - Sumber Resmi: https://www.kaggle.com/c/dogs-vs-cats
+   - TFDS Catalog: https://www.tensorflow.org/datasets/catalog/cats_vs_dogs
